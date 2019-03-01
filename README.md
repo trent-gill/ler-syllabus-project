@@ -89,7 +89,8 @@ This survey introduces students to a rich variety of fiction, poetry, and drama 
     <td>35%</td>
   </tr>
 </table>
- 
+
+
 Note:  There may be penalties for lateness, depending upon circumstances.  Reading tests cannot be postponed, and missed tests cannot be rewritten without a doctor’s note or other documentation.  Cite all sources for ideas and quotations. Assignments containing plagiarism will be graded “0” and will result in disciplinary action.  Please read BU General Calendar section 3.14 “Academic Dishonesty,” and Writing English, p. 420-8.  No cell phones or laptops in class.
 
 For the very shy:  in place of “class participation” you may hand in, 5 times during the course, short (1-page, double-spaced, typed) analyses, not plot summaries, of the work under discussion that day.  These commentaries must be handed in before the work is discussed in class and are worth 2% each.  No commentaries will be accepted after class discussions for any reason.  
@@ -128,6 +129,7 @@ Students who require disability accommodations should register with the Accessib
     <td></td>
   </tr>
 </table>
+
 
 **Texts:**
 
