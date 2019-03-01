@@ -139,6 +139,10 @@ Messenger, William, et. al.  *Writing English: The Canadian Handbook.*  Oxford U
 
 Vanderhaeghe, Guy.  *My Present Age.*  McClelland.
 									               
-**Tentative Schedule:**
+## Social Sciences Courses
+
+
+
+## Natural Sciences Courses
 
 
