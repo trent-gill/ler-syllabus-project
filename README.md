@@ -30,10 +30,15 @@ This project is in progress.
 **Instructor:**
 
 Name
+
 Office
+
 Phone Number
+
 Email
+
 Office Hours
+
 Website
 
 **Course Description:**
@@ -127,8 +132,11 @@ Students who require disability accommodations should register with the Accessib
 **Texts:**
 
 Atwood, Margaret.  *The Year of the Flood.*  McClelland.
-Chalykoff, Lisa, et. al. eds.  *The Broadview Introduction to Literature (2nd ed.).*  Broadview Press
+
+Chalykoff, Lisa, et. al. eds.  *The Broadview Introduction to Literature (2nd ed.).*  Broadview Press.
+
 Messenger, William, et. al.  *Writing English: The Canadian Handbook.*  Oxford University Press.
+
 Vanderhaeghe, Guy.  *My Present Age.*  McClelland.
 									               
 **Tentative Schedule:**
